@@ -1,0 +1,38 @@
+form.user .form-control-user {
+  font-size: .8rem;
+  border-radius: 15px;
+  padding: 1rem;
+  width: 60%;
+}
+
+input, button, select, optgroup, textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 15px;
+  width: 60%;
+  text-align: left;
+  margin-top: 10px;
+  margin-right: 6px;
+}
+
+.btn-facebook.btn-user {
+  font-size: .8rem;
+  border-radius: 10rem;
+  padding: .75rem 1rem;
+  width: 60%;
+}
+
+.w-100 {
+  width: 60% !important;
+}
+
+@media (min-width: 992px) {
+  .offset-lg-3 {
+    /*margin-left: 25%;*/
+  }
+}
+
+div {
+}
+
